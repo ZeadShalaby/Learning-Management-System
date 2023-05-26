@@ -1,0 +1,27 @@
+body{
+  background: url(img/img.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+h4, h4 {
+   font-size: xx-large;
+   color: antiquewhite;
+}
+.card-body {
+   -ms-flex: 1 1 auto;
+   flex: 1 1 auto;
+   background:linear-gradient(rgba(0,0,0,0.8),#009799) ; /* url(img/img6c.jpg)   cadetblue*/
+   padding: 1.25rem;
+}
+card-title {
+   margin-bottom: 1.75rem;
+}
+.btn-primary {
+   color: #fff;
+   background-color: #029985;
+   border-color: #fff;
+}
+.btn{
+   border-radius: 3.25rem;
+}
